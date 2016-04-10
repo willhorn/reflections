@@ -16,6 +16,9 @@ the files you think are logically connected.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By adding all the files for that logical change to the staging area for the commit.
+
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 

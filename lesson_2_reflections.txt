@@ -28,6 +28,10 @@ The majority of the code is the same, so branching the project makes sense.
 
 How do the diagrams help you visualize the branch structure?
 
+They help me see which commits each branch has in common, and which commits
+are specific to a branch.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

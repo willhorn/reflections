@@ -42,3 +42,7 @@ happening in parallel and then merged together.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+The primary benefit is less work for the developers when the merge is obvious. Automatic
+merging could be dangerous if the changes actually conflict even though the lines that
+were changed are not in the same part of the file.

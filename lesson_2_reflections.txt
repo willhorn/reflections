@@ -35,5 +35,10 @@ are specific to a branch.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+When branch A is merged into branch B, the changes from branch A are now present in
+branch B. It is represented in the diagram in such a way as to show the work that was
+happening in parallel and then merged together.
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?

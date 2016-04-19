@@ -11,3 +11,7 @@ Clones are complete copies of a branch of a repository. Forks are clones within 
 Branches are typically used for bigger changes, e.g. an experimental feature. Clones
 might be used for collaborating. Forks can be used to make a copy of someone else's work
 so you can make your own changes to it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It allows you to see changes other people have made which might inform your own future
+changes.

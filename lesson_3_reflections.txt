@@ -15,3 +15,9 @@ so you can make your own changes to it.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It allows you to see changes other people have made which might inform your own future
 changes.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what
+would be harder?
+If my collaborators and I were in the same place, we could pair program. Another option
+would be to take turns making changes to files. Both options potentially inhibit
+development. The benefit would be never having to fix merge conflicts.

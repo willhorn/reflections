@@ -21,3 +21,12 @@ would be harder?
 If my collaborators and I were in the same place, we could pair program. Another option
 would be to take turns making changes to files. Both options potentially inhibit
 development. The benefit would be never having to fix merge conflicts.
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+Making changes directly in master is much easier than creating a separate branch to
+merge later, but it probably only makes sense if you're working alone. The benefit of
+making changes in a branch is that you can develop on your branch incrementally without
+interfering with others' work. You can also then create a pull request (if you're using
+GitHub or Stash) so others can review your changes before they're merged into the master
+branch.
